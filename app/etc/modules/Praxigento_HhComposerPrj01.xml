@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Praxigento_HhComposerPrj01>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Praxigento_HhComposerPrj01>
+    </modules>
+</config>

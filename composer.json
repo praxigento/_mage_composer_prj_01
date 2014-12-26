@@ -1,9 +1,9 @@
 {
-  "name": "praxigento/_mage_composer_prj_01",
+  "name": "praxigento/z_mage_composer_prj_01",
   "version": "1.0.0",
   "type": "magento-module",
   "license": "MIT",
-  "homepage": "https://github.com/praxigento/_mage_composer_prj_01",
+  "homepage": "https://github.com/praxigento/z_mage_composer_prj_01",
   "description": "Magento project 01 for Composer tests.",
   "authors": [
     {
@@ -13,8 +13,8 @@
   ],
   "require": {
     "magento-hackathon/magento-composer-installer": "*",
-    "praxigento/_mage_composer_mod_01": "master@dev",
-    "praxigento/_mage_composer_mod_02": "master@dev"
+    "praxigento/z_mage_composer_mod_01": "master@dev",
+    "praxigento/z_mage_composer_mod_02": "master@dev"
   },
   "repositories": [
     {
@@ -23,11 +23,11 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/praxigento/_mage_composer_mod_01"
+      "url": "https://github.com/praxigento/z_mage_composer_mod_01"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/praxigento/_mage_composer_mod_02"
+      "url": "https://github.com/praxigento/z_mage_composer_mod_02"
     }
   ],
   "config": {
